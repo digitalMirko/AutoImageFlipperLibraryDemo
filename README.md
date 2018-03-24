@@ -9,6 +9,8 @@ At the bottom of the image are a series of radio buttons that show the position 
 The images automatically change to another image in the collection. If the user clicks an image a Toast message appears giving the position
 of the clicked image. Example: 'Position 8'.
 
+External Library used: com.github.therealshabi:AutoFlipper:v1.4.1
+
 Screen cap images and video of the app in use can be found on <a href="http://digitalmirko.com/javaApps.html">Digital Mirko</a>.
 
 Screen Cap on a Motorolox Moto X device:</br>
